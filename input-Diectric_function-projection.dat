@@ -1,0 +1,16 @@
+'/directory of inputs/'
+15              !  number of atoms
+QE              !  code_flag
+2704              !  number of k-points
+70              !  total number of bands
+1 70            !  nbnd_min, nbnd_max for Raman
+1               !  number of q-points
+4.0325        !  efermi if metal, (E_HOMO + E_LUMO)/2 if insulator
+1904.9189       ! volume in a.u
+0.08  0.01  .02585199978643500     !  delta (eV),  eta (eV), sigma (Kb_T) (eV), 
+.005 0.005 801
+67	! number of atomic wfc
+8	! number of vb atmwfc
+54 55 56 57 63 64 65 66	! list of vb atmwfc
+8	! number of cb atmwfc
+54 55 56 57 63 64 65 66	! list of cb atmwfc
