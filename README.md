@@ -1,7 +1,9 @@
 # Dielectric-function
-This is my first time using github. So I guess this file is used to tell th epublic how to use my code. Right?
-Lest's start.
+How to use the code?
 ------------------------
+This is my first time using github. So I guess this file is used to tell the public how to use my code. Right?
+Lest's start.
+
 1. Authority. 
 This code using the formula in eps_man (manual of epsilon) of Quantum Espresso. 
 So if you use it, please cite 
