@@ -1,14 +1,18 @@
 # Dielectric-function
 How to use the code?
 ------------------------
-This is my first time using github. So I guess this file is used to tell the public how to use my code. Right?
-Lest's start.
 
-1. Authority. 
-The code "Diectric_function_QE.f90" using the formula in eps_man (manual of epsilon) of Quantum Espresso. The code "Diectric_function-Kresolved.f90" is a modified version. "Diectric_function-projection.f90" is based on the formula in paper 2> listed below. So if you use thesec codes, please cite 
+
+1. Authorization. 
+The code "Diectric_function_QE.f90" using the formula in eps_man (manual of epsilon) of Quantum Espresso. The code "Diectric_function-Kresolved.f90" is a modified version. "Diectric_function-projection.f90" is based on the formula in paper 2> listed below. Work done for thes codes was performed in the National University of Singapore (NUS). We ask that users of this code should cite the following reference:
+
+So if you use thesec codes, please cite 
 1> QE: 10.1088/0953-8984/21/39/395502
-2> My paper: 10.1002/adfm.202005977  (Light–Matter Interaction in Quantum Confined 2D Polar Metals, AFM)
-3> My paper: https://doi.org/10.1002/adma.202104265 (Tunable 2D Group-III Metal Alloys, AM)
+2> Our paper: 10.1002/adfm.202005977  (Light–Matter Interaction in Quantum Confined 2D Polar Metals, AFM)
+3> Our paper: https://doi.org/10.1002/adma.202104265 (Tunable 2D Group-III Metal Alloys, AM)
+Authors: Kanchan Ajit Ulman (ulman.kanchan@nus.edu.sg), He Wen (e0204973@u.nus.edu)
+Contact: Quek Su Ying (phyqsy@nus.edu.sg)
+
 Thank you.
 
 2. Pre-process
