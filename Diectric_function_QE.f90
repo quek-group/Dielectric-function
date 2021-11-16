@@ -410,9 +410,9 @@
       do iL = 1, n_L       ! loop over laser frequency
         e_L =  e_L_min + dE_L * (iL - 1) 
         write (21,1000) e_L, &
-         eps(1,1,iL), eps(1,2,iL), eps(1,3,iL), &
-         eps(2,1,iL), eps(2,2,iL), eps(2,3,iL), &
-         eps(3,1,iL), eps(3,2,iL), eps(3,3,iL)
+         eps(1,1,iL)+1, eps(1,2,iL), eps(1,3,iL), &
+         eps(2,1,iL), eps(2,2,iL)+1, eps(2,3,iL), &
+         eps(3,1,iL), eps(3,2,iL), eps(3,3,iL)+1
       enddo
       close (21) 
       write (6,*) " Xi_ij matrix calculated"
