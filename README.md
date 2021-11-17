@@ -35,7 +35,7 @@ It saves much time because you don't need to compute dipole matrix again and aga
 
 In addition, you can use according code to compute the contriburions from transitions between specific atomic orbitals or k-resolved epsilon.
 
-See 10.1002/adfm.202005977 (Light–Matter Interaction in Quantum Confined 2D Polar Metals, AFM)
+See https://doi.org/10.1002/adfm.202005977 (Light–Matter Interaction in Quantum Confined 2D Polar Metals, AFM)
 
 4. Change the input.dat as you need.
 
