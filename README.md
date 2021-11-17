@@ -7,7 +7,7 @@ How to use the code?
 
 The code "Diectric_function_QE.f90" using the formula in eps_man (manual of epsilon) of Quantum Espresso. The code "Diectric_function-Kresolved.f90" is a modified version. "Diectric_function-projection.f90" is based on the formula in paper 2> listed below. Work done for thes codes was performed in the National University of Singapore (NUS). We ask that users of this code should cite the following reference:
 
-So if you use thesec codes, please cite 
+So if you use these codes, please cite 
 
 1> QE: 10.1088/0953-8984/21/39/395502
 
@@ -29,9 +29,9 @@ The output: TDMATRIX.dat and Eig_Occ.dat. These are input of this code.
 
 3. Why do we need this code?
 
-Because you can easily adjust paramters includeing interband smearing and intraband smearing without run epsilon.x agin.
+Because you can easily adjust parameters includeing interband smearing and intraband smearing without running epsilon.x again.
 
-It saves much time because you don't need to compute dipole matrix agian and again.
+It saves much time because you don't need to compute dipole matrix again and again.
 
 In addition, you can use according code to compute the contriburions from transitions between specific atomic orbitals or k-resolved epsilon.
 
@@ -59,7 +59,7 @@ bandnumber. Our code provides a way to check convergence also.
 
 You need an additional file for this code. It is computed from projwfc.x of Quantum Espresso: "projwfc_up.dat".
 
-You need to delete the head of this file untill "1  1". Please read mt code "Diectric_function-projection.f90" and have a try. 
+You need to delete the head of this file until "1  1". Please read mt code "Diectric_function-projection.f90" and have a try. 
 
 
 
