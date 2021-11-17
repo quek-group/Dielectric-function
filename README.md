@@ -51,7 +51,7 @@ You should make sure your calculated epsilon is converged.
 
 1> k-mesh. (I usually using doubled k-point in each direction.)
 
-2> Bandnumbe. For imaginary part, it's dependent on what energy you are looking at. You should include all transitions you need when you choose a 
+2> Bandnumber. For imaginary part, it's dependent on what energy you are looking at. You should include all transitions you need when you choose a 
 
 bandnumber. Our code provides a way to check convergence also. 
 
