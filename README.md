@@ -11,7 +11,7 @@ So if you use these codes, please cite
 
 1> QE: 10.1088/0953-8984/21/39/395502
 
-2> Our paper: 10.1002/adfm.202005977  (Light–Matter Interaction in Quantum Confined 2D Polar Metals, AFM)
+2> Our paper:  https://doi.org/10.1002/adfm.202005977 (Light–Matter Interaction in Quantum Confined 2D Polar Metals, AFM)
 
 3> Our paper: https://doi.org/10.1002/adma.202104265 (Tunable 2D Group-III Metal Alloys, AM)
 
